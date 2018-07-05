@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProgressBarAndroid</string>
+    <string name="circular">Circular</string>
+    <string name="determinate">determinate</string>
+    <string name="indeterminate">indeterminate</string>
+    <string name="buffered">buffered</string>
+    <string name="indeterminate_and_determinate">indeterminate and determinate</string>
+</resources>
